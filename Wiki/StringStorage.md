@@ -46,7 +46,7 @@ To show the format of a string we will be looking at how character strings are s
 ```
 
 For
-Omen we can see we need to be looking for the json key `jsonStringTable`. This holds all the strings we need for anything to be worth it.
+Omen we can see we need to be looking for the json key `StringTable`. This holds all the strings we need for anything to be worth it.
 
 ```json
 "StringTable": {
