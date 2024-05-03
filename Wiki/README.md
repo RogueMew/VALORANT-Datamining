@@ -1,5 +1,7 @@
-# Wiki
+# Welcome to the Wiki!
 
-[Code Names](./Codenames.md)
+Explore the resources available in our wiki:
 
-[String Storage](./StringStorage.md)
+- [Code Names](./Codenames.md): Dive into the world of code names and learn about their significance and usage within our system.
+
+- [String Storage](./StringStorage.md): Discover how strings are stored and organized within our files, essential for understanding the structure and functionality of Riot Games system.
