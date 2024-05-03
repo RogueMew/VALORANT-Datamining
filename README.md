@@ -4,7 +4,7 @@
 
 ## Welcome
 
-Welcome to the VALORANT String Tracker. In this repo I will be tracking some of the top Modified string files in VALORANT and storing a backups of the Fmodel Files.
+Welcome to the VALORANT String Tracker. In this repository, I will be tracking some of the top modified string files in VALORANT and storing backups of the FModel Files.
 
 <h3>
 Disclaimer: Not Affiliated with Riot Games
@@ -15,16 +15,16 @@ This repository contains code snippets and resources sourced from Riot Games for
 
 ## Updates
 
-#### This Repo will be updated every Patch including the FModel Back ups Archive (.fbkp)
+#### This Repository will be updated every Patch, including the FModel Backups Archive (.fbkp)
 
 <br/>
 
 ## Table of Contents
 
-[VALORANT Archive](./FModel%20Backups/README.md): Stores the archive for FModel Backups
+- [VALORANT Archive](./FModel%20Backups/README.md): Stores the archive for FModel Backups.
 
-[String Tracker](./String%20Tracker/README.md): Tracks the changes of certain Files
+- [String Tracker](./String%20Tracker/README.md): Tracks the changes of certain files.
 
-[Studying Items](./Studying/README.md): Current things im trying to figure out on how they work
+- [Studying Items](./Studying/README.md): Current things I'm trying to figure out on how they work.
 
-[Wiki for Data Mining](./Wiki/README.md): Wiki on how to Datamine VALORANT
+- [Wiki for Data Mining](./Wiki/README.md): Wiki on how to Datamine VALORANT.
