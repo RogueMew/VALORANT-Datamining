@@ -1,4 +1,4 @@
-Bolded Lines are current Unknowns and no theoies on what they can be
+Bolded Lines are current Unknowns and no theories on what they can be. I will not be putting weapon skins in as there are quite a bit and I dont have that time at the time of set up.
 
 ## Agent Code Names
 
