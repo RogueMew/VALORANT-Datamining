@@ -1,6 +1,5 @@
 # Wiki
 
-[Code Names]()
+[Code Names](./Codenames.md)
 
-[String Storage]()
-
+[String Storage](./StringStorage.md)

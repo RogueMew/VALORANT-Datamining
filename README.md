@@ -2,7 +2,7 @@
 
 ### ![Valorant Patch: 8.08](https://badgen.net/static/Valorant%20Patch/8.08/?color=red)
 
-## Welcome 
+## Welcome
 
 Welcome to the VALORANT String Tracker. In this repo I will be tracking some of the top Modified string files in VALORANT and storing a backups of the Fmodel Files.
 
