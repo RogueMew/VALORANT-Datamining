@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Clay_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Clay_Strings",
+      "KeysToMetaData": {
+        "DisplayName": "Raze",
+        "Prototype_DisplayName": "ClayPrototype",
+        "Description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of \"boom.\"",
+        "Ability1_DisplayName": "Blast Pack",
+        "Ability1_Description": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit.",
+        "Ability2_Description": "EQUIP a cluster grenade. FIRE to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range. ALT FIRE to lob. Paint Shells charge resets every two kills.",
+        "GrenadeAbility_DisplayName": "Boom Bot",
+        "GrenadeAbility_Description": "EQUIP a Boom Bot. FIRE will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.",
+        "Ultimate_DisplayName": "Showstopper",
+        "Ultimate_Description": "EQUIP a rocket launcher. FIRE to shoot a rocket that does massive area damage on contact with anything.",
+        "Ultimate_BoostCooldown": "BOOSTER COOLDOWN",
+        "Ability1_Description_Ranked": "Rank 1: +1 Charge\r\nRank 2: +1 Charge\r\nRank 3: +1 Charge",
+        "Ability2_DisplayName": "Paint Shells",
+        "GrenadeAbility_Description_Ranked": "Rank 1: +1 Charge\r\nRank 2: Cooldown (90)",
+        "Ability2_Description_Ranked": "Rank 1: +1 Charge\r\nRank 2: +1 Charge",
+        "Ultimate_RocketTimer": "ROCKET FUSE",
+        "Ability1_Description_Prototype": "Toss a destructible satchel that can be reactivated to boost yourself and deal moderate damage to nearby enemies. Automatically detonates after a short time.",
+        "Ability1_DisplayName_Prototype": "Blast Pack",
+        "DisplayName_MoneyPrototype": "ClayPrototypeMoney",
+        "ContractName": "Raze Gear",
+        "GunBuddy_Clay_DisplayName": "Blast Pin Buddy",
+        "BasePistol_Clay_DisplayName": "Pistolinha Classic",
+        "PlayerCard_Clay01_DisplayName": "Rising up Card",
+        "PlayerCard_Clay02_DisplayName": "VALORANT Raze Card",
+        "PlayerCard_Clay02_DisplayName_AllCaps": "VALORANT RAZE CARD",
+        "PlayerCard_Clay01_DisplayName_AllCaps": "RISING UP CARD",
+        "BasePistol_Clay_DisplayName_AllCaps": "PISTOLINHA CLASSIC",
+        "GunBuddy_Clay_DisplayName_AllCaps": "BLAST PIN BUDDY",
+        "Prototype_DisplayName_AllCaps": "CLAYPROTOTYPE",
+        "DisplayName_AllCaps": "RAZE",
+        "ContractName_AllCaps": "RAZE GEAR"
+      }
+    },
+    "StringTableId": 0
+  }
+]
