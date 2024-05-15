@@ -1,6 +1,6 @@
 # VALORANT String Tracker
 
-### ![Valorant Patch: 8.08](https://badgen.net/static/Valorant%20Patch/8.08/?color=red)
+### ![Valorant Patch: 8.09](https://badgen.net/static/Valorant%20Patch/8.09/?color=red)
 
 ## Welcome
 
