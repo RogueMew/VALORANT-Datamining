@@ -2,7 +2,7 @@ Bolded Lines are current Unknowns and no theories on what they can be. I will no
 
 ## Agent Code Names
 
-|   Codename   |                    Name                     |
+|   Codename   |                 Agent Name                  |
 | :----------: | :-----------------------------------------: |
 |   AggroBot   |                    Gekko                    |
 | BountyHunter |                    Fade                     |
@@ -34,3 +34,20 @@ Bolded Lines are current Unknowns and no theories on what they can be. I will no
 |    Wushu     |                    Jett                     |
 
 ## Map Codenames
+
+|  Codename  | Map Name  |
+| :--------: | :-------: |
+|   Bonsai   |   Split   |
+|   Ascent   |  Ascent   |
+|    Port    |  Icebox   |
+|  Duality   |   Bind    |
+|  Foxtrot   |  Breeze   |
+| HURM_Alley | District  |
+| HURM_Bowl  |  Kasbah   |
+| HURM_Helix |   Drift   |
+| HURM_YARD  |  Piazza   |
+|    Jam     |   Lotus   |
+|  Juliett   |  Sunset   |
+|    Pitt    |   Pearl   |
+|  Poveglia  | The Range |
+|   Traid    |   Haven   |
