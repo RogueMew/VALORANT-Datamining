@@ -2,7 +2,7 @@
 
 #### Game Data:
 
-- [Games.json](https://github.com/RogueMew/VALORANT-Datamining/commits/String%20Tracker/main/Data/Game.json)
+- [Games.json](https://github.com/RogueMew/VALORANT-Datamining/commits/String%20Tracker/Data/Game.json)
 
 #### Agent Strings:
 
