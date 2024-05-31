@@ -1,10 +1,10 @@
-# VALORANT String Tracker
+# Rogues VALORANT Datamining and Archive Repo
 
-### ![Valorant Patch: 8.09](https://badgen.net/static/Valorant%20Patch/8.09/?color=red)
+### ![Valorant Patch Currently Backed Up: 8.09](https://badgen.net/static/VALORANT%20Patch%20Currently%20Backed%20Up/8.10/?color=red)
 
 ## Welcome
 
-Welcome to the VALORANT String Tracker. In this repository, I will be tracking some of the top modified string files in VALORANT and storing backups of the FModel Files.
+Welcome to Rogues VALORANT Datamining and Archive Repo. In this repository, I will be tracking, Studying, and Archiving peices of VALORANT Media and code.
 
 <h3>
 Disclaimer: Not Affiliated with Riot Games
@@ -15,7 +15,7 @@ This repository contains code snippets and resources sourced from Riot Games for
 
 ## Updates
 
-#### This Repository will be updated every Patch, including the FModel Backups Archive (.fbkp)
+#### This Repository will be updated every Patch, including the FModel Backups Archive (.fbkp) and Games Localization File
 
 <br/>
 
