@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Guide_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Guide_Strings",
+      "KeysToMetaData": {
+        "ContractName": "Skye Gear",
+        "DisplayName": "Skye",
+        "Ability1_DisplayName": "Trailblazer",
+        "Ability2_DisplayName": "Guiding Light",
+        "Ability3_DisplayName": "Regrowth",
+        "Ability1_Description": "EQUIP a Tasmanian tiger trinket. FIRE to send out and take control of the predator.  While in control, FIRE to leap forward, exploding in a Concussive blast on impact and damaging directly hit enemies.",
+        "Ability2_Description": "EQUIP a hawk trinket.  FIRE to send it forward. HOLD FIRE to guide the hawk in the direction of your crosshair. RE-USE while the hawk is in flight to transform it into a flash. The flash reaches max potency after a short duration during the hawk's flight.",
+        "Ability3_Description": "EQUIP a healing trinket.  HOLD FIRE to channel, Healing allies in range and line of sight.  Can be reused until her healing pool is depleted.  Skye cannot heal herself.",
+        "Ultimate_DisplayName": "Seekers",
+        "Ultimate_Description": "EQUIP a Seeker trinket.  FIRE to send out three Seekers to track down the three closest enemies.  If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers.",
+        "Ability1_Activate": "TO ACTIVATE FLASH",
+        "Ability2_Destroyed": "HAWK DESTROYED",
+        "Description": "Hailing from Australia, Skye and her band of beasts trailblaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye's side.",
+        "Spray01_DisplayName": "Wild Life Spray",
+        "PlayerCard01_DisplayName": "VALORANT Skye Card",
+        "Spray02_DisplayName": "On Your Trail Spray",
+        "GunBuddy_DisplayName": "Hawko Buddy",
+        "CallsignSpray_DisplayName": "Skye Spray",
+        "PlayerCard02_DisplayName": "The Great Reclaimer Card",
+        "Autopistol_DisplayName": "Swooping Frenzy",
+        "Ability4_DisplayName": "Guide Scout",
+        "PlayerCard01_DisplayName_AllCaps": "VALORANT SKYE CARD",
+        "PlayerCard02_DisplayName_AllCaps": "THE GREAT RECLAIMER CARD",
+        "Spray01_DisplayName_AllCaps": "WILD LIFE SPRAY",
+        "Spray02_DisplayName_AllCaps": "ON YOUR TRAIL SPRAY",
+        "CallsignSpray_DisplayName_AllCaps": "SKYE SPRAY",
+        "Autopistol_DisplayName_AllCaps": "SWOOPING FRENZY",
+        "GunBuddy_DisplayName_AllCaps": "HAWKO BUDDY",
+        "DisplayName_AllCaps": "SKYE",
+        "ContractName_AllCaps": "SKYE GEAR",
+        "Ability2_ActivateText": "ACTIVATE TO FLASH"
+      }
+    },
+    "StringTableId": 0
+  }
+]

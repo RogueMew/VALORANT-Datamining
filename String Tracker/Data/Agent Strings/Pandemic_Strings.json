@@ -1,0 +1,46 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Pandemic_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Pandemic_Strings",
+      "KeysToMetaData": {
+        "DisplayName": "Viper",
+        "Prototype_DisplayName": "PandemicPrototype",
+        "Description": "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mindgames surely will.",
+        "Ability1_DisplayName": "Poison Cloud",
+        "Ability1_Description": "EQUIP a gas emitter. FIRE to throw the emitter that perpetually remains throughout the round. ALT FIRE to lob. RE-USE the ability to create a toxic gas cloud at the cost of fuel. This ability can be RE-USED more than once and can be picked up to be REDEPLOYED.",
+        "Ability2_DisplayName": "Toxic Screen",
+        "Ability2_Description": "EQUIP a gas emitter launcher that penetrates terrain. FIRE to deploy a long line of gas emitters. RE-USE the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be RE-USED more than once.",
+        "GrenadeAbility_DisplayName": "Snake Bite",
+        "GrenadeAbility_Description": "EQUIP a chemical launcher. FIRE to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and applies Vulnerable.",
+        "Ultimate_DisplayName": "Viper's Pit",
+        "Ultimate_Description": "EQUIP a chemical sprayer. FIRE to spray a chemical cloud in all directions around Viper, creating a large cloud that Nearsights players and Decays the health of enemies inside of it. HOLD the ability key to disperse the cloud early.",
+        "Passive_DisplayName": "Toxic",
+        "Passive_Description": "You gradually generate and replenish the toxin that fuels your abilities.  Enemies that cross through Viper's Poison Cloud, Toxic Screen, or Viper's Pit are instantly inflicted with at least 30 Decay. Their Decay level increases the longer they remain in contact with it.",
+        "Buddy_DisplayName": "Pandemic Buddy",
+        "DisplayName_Prototype": "PandemicPrototype",
+        "FuelLow": "TOXIN LOW",
+        "FuelGauge_Full": "FULL",
+        "FuelGauge_Active": "ACTIVE",
+        "FuelGauge_Charging": "CHARGING",
+        "AbilityGeneral_Poison": "Pandemic Poison",
+        "FuelWarnings_Requires": "REQUIRES {NUM}",
+        "FuelWarnings_Remaining": "{NUM} REMAINING",
+        "FuelWarnings_Deploying": "DEPLOYING",
+        "FuelWarnings_Insufficient": "INSUFFICIENT TOXIN",
+        "FuelWarnings_Traveling": "MUST STOP BEFORE ACTIVATION",
+        "FuelWarnings_Cooldown": "ON COOLDOWN",
+        "Ulitmate_ReturnToSmoke": "RETURN TO FUEL",
+        "Ultimate_StatisticDamage": "Toxin Damage Dealt",
+        "Ultimate_UnableToDeploy": "UNABLE TO DEPLOY HERE",
+        "Ultimate_SmokeIntegrity": "SMOKE INTEGRITY",
+        "Ability2_NoValvesWarning": "NO VALVES PLACED",
+        "DisplayName_AllCaps": "VIPER",
+        "DisplayName_Prototype_AllCaps": "PANDEMICPROTOTYPE"
+      }
+    },
+    "StringTableId": 0
+  }
+]

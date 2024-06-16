@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Tournaments_Dev_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Tournaments_Dev_Strings",
+      "KeysToMetaData": {
+        "MatchType_Scrim": "SCRIM",
+        "PremierDivisions_CAPS": "PREMIER DIVISIONS",
+        "PremierDivisions_Description": "Premier division is determined by the average of the top 5 players' MMR on the team.  Play your first match to lock in your division.  Win playoff tournaments to promote to higher divisions.",
+        "PremierDivisions_ContenderEligibility_Name": "Contender Eligibility {description}",
+        "PremierDivisions_ContenderEligibility_Description": "is given to players who are ranked Immortal 3 or higher; have played a Weekly or Playoff match on a team with Contender or Invite; or have earned a \"Playoff Team\", \"Finalist\", or \"Winner\" Crest in Elite 5 or higher.",
+        "PremierDivisions_Open_CAPS": "OPEN",
+        "PremierDivisions_Intermediate_CAPS": "INTERMEDIATE",
+        "PremierDivisions_Advanced_CAPS": "ADVANCED",
+        "PremierDivisions_Elite_CAPS": "ELITE",
+        "PremierDivisions_Contender_CAPS": "CONTENDER",
+        "PremierDivisions_Invite_CAPS": "INVITE",
+        "PremierDivisions_DivisionNumbers": "(1-5)"
+      }
+    },
+    "StringTableId": 0
+  }
+]

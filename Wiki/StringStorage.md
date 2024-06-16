@@ -44,6 +44,6 @@ To illustrate the structure of a string, let's delve into how character strings 
 }
 ```
 
-For Omen, the essential information is stored under the `StringTable` key. This section contains all the strings pertinent to his abilities and descriptions.
+For Omen, the essential information is stored under the `KeysToMetaData` key under `StringTable`. This section contains all the strings pertinent to his abilities and descriptions.
 
 For instance, if we're interested in Omen's first ability, we'd locate the entry labeled "Ability1". Additionally, you may notice remnants of Omen's development, like a grenade ability that was eventually replaced with his teleport, but the key names remain unchanged.

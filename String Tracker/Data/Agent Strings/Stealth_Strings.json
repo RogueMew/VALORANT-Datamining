@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Stealth_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Stealth_Strings",
+      "KeysToMetaData": {
+        "Ability1_Description": "EQUIP to rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface.",
+        "Ability1_DisplayName": "BLINDSIDE",
+        "Ability2_Description": "EQUIP a rift tether FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport.",
+        "Ability2_DisplayName": "GATECRASH",
+        "GrenadeAbility_Description": "EQUIP an echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo. USE to transform an inactive echo into a mirror image and send it forward.  Mirror images explode in a Blinding flash when destroyed by enemies.",
+        "GrenadeAbility_DisplayName": "FAKEOUT",
+        "Ultimate_Description": "EQUIP a mask that can see between dimensions. FIRE to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside. REACTIVATE to exit Yoru's dimension early.",
+        "Ultimate_DisplayName": "DIMENSIONAL DRIFT",
+        "Description": "Japanese native Yoru rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.",
+        "DisplayName": "Yoru",
+        "Range": "RANGE",
+        "StealthTimer": "DIMENSIONAL DRIFT",
+        "Spray_Stealth1_DisplayName": "Who's Next Spray",
+        "Spray_Stealth2_DisplayName": "Sharp Spray",
+        "Spray_Stealth3_DisplayName": "Yoru Spray",
+        "PlayerCard_Stealth1_DisplayName": "VALORANT Yoru Card",
+        "PlayerCard_Stealth2_DisplayName": "Unmasked Lineage Card",
+        "RevolverPistol_Stealth_DisplayName": "Death Wish Sheriff",
+        "GunBuddy_Stealth_DisplayName": "Dimensional Fragment Buddy",
+        "PlayerTitle_Stealth1_DisplayName": "Gatecrasher",
+        "PlayerTitle_Stealth2_DisplayName": "Unmasked",
+        "ContractName": "Yoru Gear",
+        "PlayerTitle_Stealth1_Title_Description": "Gatecrasher Title",
+        "PlayerTitle_Stealth2_Title_Description": "Unmasked Title",
+        "PlayerCard_Stealth1_DisplayName_AllCaps": "VALORANT YORU CARD",
+        "PlayerCard_Stealth2_DisplayName_AllCaps": "UNMASKED LINEAGE CARD",
+        "Spray_Stealth1_DisplayName_AllCaps": "WHO'S NEXT SPRAY",
+        "Spray_Stealth2_DisplayName_AllCaps": "SHARP SPRAY",
+        "Spray_Stealth3_DisplayName_AllCaps": "YORU SPRAY",
+        "RevolverPistol_Stealth_DisplayName_AllCaps": "DEATH WISH SHERIFF",
+        "GunBuddy_Stealth_DisplayName_AllCaps": "DIMENSIONAL FRAGMENT BUDDY",
+        "PlayerTitle_Stealth1_DisplayName_AllCaps": "GATECRASHER",
+        "PlayerTitle_Stealth2_DisplayName_AllCaps": "UNMASKED",
+        "PlayerTitle_Stealth1_Title_Description_AllCaps": "GATECRASHER TITLE",
+        "PlayerTitle_Stealth2_Title_Description_AllCaps": "UNMASKED TITLE",
+        "ContractName_AllCaps": "YORU GEAR",
+        "FakeTP_Usable_Prompt": "FAKE",
+        "FakeTP_1PConfirm": "GATECRASH FAKED",
+        "Decoy_Usable_Prompt": "SPAWN FAKEOUT",
+        "DisplayName_AllCaps": "YORU"
+      }
+    },
+    "StringTableId": 0
+  }
+]

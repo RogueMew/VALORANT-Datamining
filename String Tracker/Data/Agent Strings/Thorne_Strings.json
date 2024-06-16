@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Thorne_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "Thorne_Strings",
+      "KeysToMetaData": {
+        "DisplayName": "Sage",
+        "Prototype_DisplayName": "ThornePrototype",
+        "ProductionDisplayName": "ThorneProduction",
+        "Description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
+        "Ability1_DisplayName": "Slow Orb",
+        "Ability1_Description": "EQUIP a slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that Slows players caught inside of it.",
+        "Ability2_DisplayName": "Healing Orb",
+        "Ability2_Description": "EQUIP a healing orb. FIRE with your crosshairs over a damaged ally to activate a Heal-Over-Time on them. ALT FIRE while Sage is damaged to activate a self Heal-Over-Time.",
+        "GrenadeAbility_DisplayName": "Barrier Orb",
+        "GrenadeAbility_Description": "EQUIP a barrier orb. FIRE places a wall that fortifies after a few seconds. ALT FIRE rotates the targeter.",
+        "Ultimate_DisplayName": "Resurrection",
+        "Ultimate_Description": "EQUIP a resurrection ability. FIRE with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
+        "Stat_EnemiesSlowed_DisplayName": "Enemies Slowed",
+        "Stat_ResurrectedKills_DisplayName": "Resurrected Kills",
+        "Ultimate_Resurrecting": "REVIVING...",
+        "Ultimate_CannotCast": "CANNOT REVIVE",
+        "Ultimate_BlockedNoSpaceAvailable": "AREA IS BLOCKED",
+        "DisplayName_AllCaps": "SAGE",
+        "ProductionDisplayName_AllCaps": "THORNEPRODUCTION",
+        "Prototype_DisplayName_AllCaps": "THORNEPROTOTYPE"
+      }
+    },
+    "StringTableId": 0
+  }
+]
