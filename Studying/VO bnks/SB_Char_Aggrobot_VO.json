@@ -50,6 +50,11 @@
       "Id": 925214500,
       "Offset": 99536,
       "Length": 39037
+    },
+    {
+      "Id": 975467619,
+      "Offset": 138576,
+      "Length": 56099
     }
   ],
   "Hierarchies": [
@@ -4878,6 +4883,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "610486766",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 1660944388,
+        "SourceId": 591012980,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777435
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 814612480,
+            "ParentId": 3956,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "259272846",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "478771289",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "702965998",
       "Data": {
         "SoundConversion": "PCM",
@@ -5453,7 +5505,7 @@
     },
     {
       "Type": "ActorMixer",
-      "Length": "120",
+      "Length": "124",
       "Id": "341947783",
       "Data": null
     },
@@ -16965,6 +17017,27 @@
       "Data": {
         "EventActionIds": [
           772010984
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "993455717",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 478771289,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "271436424",
+      "Data": {
+        "EventActionIds": [
+          993455717
         ]
       }
     },

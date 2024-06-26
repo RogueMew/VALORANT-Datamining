@@ -5312,6 +5312,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "639331384",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 1107427332,
+        "SourceId": 1211037188,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777227
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 1291386880,
+            "ParentId": 13298,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "871517433",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "12860736",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "568872807",
       "Data": {
         "SoundConversion": "PCM",
@@ -5703,6 +5750,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "403758425",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 1744961540,
+        "SourceId": 4044250239,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777222
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 3972595712,
+            "ParentId": 4479,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "293596361",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "449368287",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "800361328",
       "Data": {
         "SoundConversion": "PCM",
@@ -5818,6 +5912,53 @@
       "Type": "SwitchContainer",
       "Length": "108",
       "Id": "557108354",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
+      "Id": "721851815",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 1895956484,
+        "SourceId": 3355658184,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777227
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 3642163200,
+            "ParentId": 15523,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "1017370903",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "645933078",
       "Data": null
     },
     {
@@ -6050,7 +6191,7 @@
     },
     {
       "Type": "ActorMixer",
-      "Length": "72",
+      "Length": "84",
       "Id": "989738837",
       "Data": null
     },
@@ -14213,6 +14354,27 @@
     {
       "Type": "EventAction",
       "Length": "22",
+      "Id": "941940735",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 449368287,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "1721768489",
+      "Data": {
+        "EventActionIds": [
+          941940735
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
       "Id": "278928657",
       "Data": {
         "EventActionScope": "GameObjectId",
@@ -14879,6 +15041,27 @@
       "Data": {
         "EventActionIds": [
           931291575
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "513260446",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 645933078,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "2740561208",
+      "Data": {
+        "EventActionIds": [
+          513260446
         ]
       }
     },
@@ -15782,6 +15965,27 @@
       "Data": {
         "EventActionIds": [
           834766073
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "531536416",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 12860736,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "3970413162",
+      "Data": {
+        "EventActionIds": [
+          531536416
         ]
       }
     },

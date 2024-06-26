@@ -22,28 +22,33 @@
       "Length": 5096
     },
     {
-      "Id": 421554800,
+      "Id": 355202610,
       "Offset": 12720,
+      "Length": 63844
+    },
+    {
+      "Id": 421554800,
+      "Offset": 76576,
       "Length": 91076
     },
     {
       "Id": 574923270,
-      "Offset": 103808,
+      "Offset": 167664,
       "Length": 4834
     },
     {
       "Id": 668175720,
-      "Offset": 108656,
+      "Offset": 172512,
       "Length": 4828
     },
     {
       "Id": 760026225,
-      "Offset": 113488,
+      "Offset": 177344,
       "Length": 4095
     },
     {
       "Id": 834402905,
-      "Offset": 117584,
+      "Offset": 181440,
       "Length": 4574
     }
   ],
@@ -7092,6 +7097,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "584196353",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 838860804,
+        "SourceId": 1679109110,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777465
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 517210112,
+            "ParentId": 1447,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "94838484",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "865195915",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "520901954",
       "Data": {
         "SoundConversion": "PCM",
@@ -7138,7 +7190,7 @@
     },
     {
       "Type": "ActorMixer",
-      "Length": "68",
+      "Length": "72",
       "Id": "383254951",
       "Data": null
     },
@@ -20699,6 +20751,27 @@
       "Data": {
         "EventActionIds": [
           426646910
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "731637713",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 865195915,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "3889249658",
+      "Data": {
+        "EventActionIds": [
+          731637713
         ]
       }
     },

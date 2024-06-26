@@ -27,23 +27,28 @@
       "Length": 5096
     },
     {
-      "Id": 574923270,
+      "Id": 401073146,
       "Offset": 20368,
+      "Length": 27945
+    },
+    {
+      "Id": 574923270,
+      "Offset": 48320,
       "Length": 4834
     },
     {
       "Id": 668175720,
-      "Offset": 25216,
+      "Offset": 53168,
       "Length": 4828
     },
     {
       "Id": 760026225,
-      "Offset": 30048,
+      "Offset": 58000,
       "Length": 4095
     },
     {
       "Id": 834402905,
-      "Offset": 34144,
+      "Offset": 62096,
       "Length": 4574
     }
   ],
@@ -10964,6 +10969,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "777805444",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 4194304004,
+        "SourceId": 689432547,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777325
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 1609629696,
+            "ParentId": 7362,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "482500593",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "128011769",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "199919897",
       "Data": {
         "SoundConversion": "PCM",
@@ -11374,7 +11426,7 @@
     },
     {
       "Type": "ActorMixer",
-      "Length": "76",
+      "Length": "80",
       "Id": "264768835",
       "Data": null
     },
@@ -17853,6 +17905,27 @@
       "Data": {
         "EventActionIds": [
           311809887
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "547939915",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 128011769,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "132324582",
+      "Data": {
+        "EventActionIds": [
+          547939915
         ]
       }
     },

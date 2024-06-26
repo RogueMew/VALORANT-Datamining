@@ -2900,6 +2900,53 @@
     {
       "Type": "SoundSfxVoice",
       "Length": "50",
+      "Id": "804136144",
+      "Data": {
+        "SoundConversion": "PCM",
+        "SoundSource": "Embedded",
+        "SoundId": 872546308,
+        "SourceId": 34437161,
+        "EmbeddedWem": {
+          "WemLength": 0,
+          "WemOffset": 16777223
+        },
+        "SoundType": "SoundSfx",
+        "SoundStructure": {
+          "Effects": {
+            "OverrideParentEffects": false,
+            "EffectCount": 0
+          },
+          "Settings": {
+            "OutputBusId": 3098935296,
+            "ParentId": 11328,
+            "OverrideParentPlaybackPriority": false,
+            "OffsetPriotityAtMaxDistance": false,
+            "Settings": {
+              "VoiceVolume": 2.3509887E-38,
+              "VoiceVolume": 0.0
+            }
+          },
+          "Position": {
+            "PositionIncluded": false
+          }
+        }
+      }
+    },
+    {
+      "Type": "RandomSequenceContainer",
+      "Length": "78",
+      "Id": "742439094",
+      "Data": null
+    },
+    {
+      "Type": "SwitchContainer",
+      "Length": "108",
+      "Id": "595320760",
+      "Data": null
+    },
+    {
+      "Type": "SoundSfxVoice",
+      "Length": "50",
       "Id": "617689121",
       "Data": {
         "SoundConversion": "PCM",
@@ -3227,7 +3274,7 @@
     },
     {
       "Type": "ActorMixer",
-      "Length": "100",
+      "Length": "104",
       "Id": "144457680",
       "Data": null
     },
@@ -17067,6 +17114,27 @@
       "Data": {
         "EventActionIds": [
           105069712
+        ]
+      }
+    },
+    {
+      "Type": "EventAction",
+      "Length": "22",
+      "Id": "167221549",
+      "Data": {
+        "EventActionScope": "GameObjectId",
+        "EventActionType": "Play",
+        "ReferencedId": 595320760,
+        "ParameterCount": 0
+      }
+    },
+    {
+      "Type": "Event",
+      "Length": "9",
+      "Id": "4253484437",
+      "Data": {
+        "EventActionIds": [
+          167221549
         ]
       }
     },
