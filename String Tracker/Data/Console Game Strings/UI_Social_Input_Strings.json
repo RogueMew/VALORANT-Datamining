@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_Input_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_Input_Strings",
+      "KeysToMetaData": {
+        "Action_Collapse": "Collapse",
+        "Action_Expand": "Expand",
+        "Action_Invite": "Invite",
+        "Action_Accept_Hold": "Accept (Hold)",
+        "Action_Accept": "Accept",
+        "Action_Decline": "Decline",
+        "Action_Decline_Hold": "Decline (Hold) ",
+        "Action_Select": "Select",
+        "Action_Back": "Back",
+        "Action_Tab_Previous": "Previous Tab",
+        "Action_Tab_Next": "Next Tab",
+        "Action_Block": "Block",
+        "Action_Unblock": "Unblock",
+        "Action_Block_Hold": "Block (Hold)",
+        "Action_Unblock_Hold": "Unblock (Hold)",
+        "Action_Mute": "Mute",
+        "Action_Unmute": "Unmute",
+        "Action_Open": "Open",
+        "Action_Close": "Close",
+        "Action_OpenPlayerMenu": "Open Player Menu"
+      }
+    },
+    "StringTableId": 0
+  }
+]

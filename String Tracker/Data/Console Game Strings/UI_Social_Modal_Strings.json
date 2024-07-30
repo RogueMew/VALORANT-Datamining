@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_Modal_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_Modal_Strings",
+      "KeysToMetaData": {
+        "Modal_Error_RequestToJoin_Heading": "CANNOT REQUEST TO JOIN THE PARTY",
+        "Action_Dismiss": "DISMISS",
+        "Action_Cancel": "CANCEL",
+        "Action_Remove": "REMOVE",
+        "Modal_Confirmation_RemoveFriend_Description": "<Cream50>Are you sure you want to remove</> {PlayerNameAndTag} <Cream50>from your friends list?</>\r\n\r\n<Cream50>They won't be notified that you've removed them.</>",
+        "Modal_Confirmation_RemoveFriend_Heading": "DO YOU WANT TO REMOVE THIS FRIEND?",
+        "Modal_Error_AcceptPartyRequest_Description": "You cannot accept this party invite or request to join.",
+        "Modal_Error_AcceptPartyRequest_Heading": "CANNOT ACCEPT PARTY REQUEST",
+        "Modal_Error_JoinParty_Description": "You cannot join this player's party.",
+        "Modal_Error_JoinParty_Heading": "CANNOT JOIN THE PARTY",
+        "Modal_Error_KickPartyMember_Description": "You cannot kick this party member.",
+        "Modal_Error_KickPartyMember_Heading": "CANNOT KICK PARTY MEMBER",
+        "Modal_Error_LeaveParty_Description": "You cannot leave the party.",
+        "Modal_Error_LeaveParty_Heading": "CANNOT LEAVE THE PARTY",
+        "Modal_Error_RejectPartyRequest_Description": "You cannot reject this party invite or request to join.",
+        "Modal_Error_RejectPartyRequest_Heading": "CANNOT REJECT PARTY REQUEST",
+        "Modal_Error_RequestToJoin_Description": "You cannot request to join the party.",
+        "Modal_Error_InviteToParty_Description": "You cannot invite this player to the party.",
+        "Modal_Error_InviteToParty_Heading": "CANNOT INVITE PLAYER TO THE PARTY",
+        "Modal_Error_TransferPartyOwnership_Description": "You cannot make this player the party leader.",
+        "Modal_Error_TransferPartyOwnership_Heading": "CANNOT MAKE THIS PLAYER THE PARTY LEADER",
+        "Modal_Error_Generic_Description": "A backend error occurred while performing this social action.\r\n\r\nPlease try again.",
+        "Modal_Error_Generic_Heading": "ERROR",
+        "Modal_Warning_InviteToParty_CrossplayDisabled_Heading": "PARTY WILL BECOME CROSSPLAY DISABLED",
+        "Action_SendInvite": "SEND INVITE",
+        "Action_GoToSettings": "GO TO SETTINGS",
+        "Modal_Warning_InviteToParty_CrossplayDisabled_Description": "By inviting this player, your party will become Crossplay Disabled. You will no longer be able to invite or play with players from other platforms.",
+        "Modal_Warning_JoinParty_CrossplayDisabled_Heading": "CANNOT JOIN PARTY",
+        "Modal_Warning_JoinParty_CrossplayDisabled_Description": "You cannot join this player's party as you have crossplay disabled. The current party includes players on other platforms. Please update crossplay settings to participate. ",
+        "Modal_Error_AcceptPartyFull_Description": "Unable to join due to party being currently full.",
+        "Modal_Error_AcceptPartyFull_Heading": "CANNOT JOIN PARTY"
+      }
+    },
+    "StringTableId": 0
+  }
+]

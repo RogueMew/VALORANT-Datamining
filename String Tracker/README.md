@@ -1,12 +1,24 @@
 ### Click to view the changes via Git Commits
 
-#### Game Data:
+### Game Data:
 
 - [Games.json](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Game%20Strings/Game.json)
 
 - [Tournaments_Dev_Strings.json](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Game%20Strings/Tournaments_Dev_Strings.json)
 
-#### Agent Strings:
+### Console Game Strings:
+
+- [Social Input](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Input_Strings.json)
+
+- [Social Modal](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Modal_Strings.json)
+
+- [Social Party](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Party_Strings.json)
+
+- [Social Player Context Menu](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_PlayerContextMenu_Strings.json)
+
+- [Social Player Info Box](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_PlayerInfoBox_Strings.json)
+
+### Agent Strings:
 
 - [Gekko Strings](https://github.com/RogueMew/VALORANT-Datamining/commits/main/Data/Agent%20Strings/Agent%20Strings/Aggrobot_Strings.json)
 - [Fade Strings](https://github.com/RogueMew/VALORANT-Datamining/commits/main/Data/Agent%20Strings/BountyHunter_Strings.json)

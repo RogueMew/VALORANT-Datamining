@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_PlayerContextMenu_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_PlayerContextMenu_Strings",
+      "KeysToMetaData": {
+        "Action_AddFriend": "Add Friend",
+        "Action_BlockPlayer": "Block Player",
+        "Action_EditFriendNote": "Edit Friend Note",
+        "Action_InviteToParty": "Invite to Party",
+        "Action_JoinParty": "Join Party",
+        "Action_KickPartyMember": "Kick from Party",
+        "Action_LeaveParty": "Leave Party",
+        "Action_RemoveFriend": "Remove Friend",
+        "Action_ReportPlayer": "Report Player",
+        "Action_RequestToJoinParty": "Request to Join Party",
+        "Action_SendMessage": "Send Message",
+        "Action_TransferPartyOwnership": "Make Party Leader",
+        "Action_UnblockPlayer": "Unblock Player",
+        "Action_ViewCareer": "View Career",
+        "Toggle_MuteOtherVoice": "Mute Voice",
+        "Toggle_MuteSelfVoice": "Mute Self",
+        "Slider_OtherVoiceVolume": "Voice Volume",
+        "Action_OpenCommsSetup": "Communications Setup",
+        "PlayerContextMenu_Title": "OPTIONS",
+        "Action_MutePing": "Mute Ping",
+        "Action_AddRiotFriend": "Add Riot Friend",
+        "Action_ViewPlatformProfile_PlayStation": "View Profile",
+        "Action_ViewPlatformProfile_Xbox": "View Xbox Profile",
+        "Action_OpenBlockedPlayers": "Blocked Players"
+      }
+    },
+    "StringTableId": 0
+  }
+]

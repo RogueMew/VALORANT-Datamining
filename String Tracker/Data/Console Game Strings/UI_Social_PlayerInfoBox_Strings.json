@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_PlayerInfoBox_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_PlayerInfoBox_Strings",
+      "KeysToMetaData": {
+        "Blocked_Riot_Description": "You have blocked {PlayerNameAndTag} from interacting with you. They cannot send you friend requests, invite you to their party or hear voice communications from them.",
+        "Blocked_Riot_Heading": "{PlayerNameAndTag} is blocked",
+        "Blocked_FirstParty_Description": "You have blocked {PlayerNameAndTag} from interacting with you. They cannot send you friend requests, invite you to their party or hear voice communications from them.",
+        "Blocked_FirstParty_Heading": "{PlayerNameAndTag} is blocked (Platform block)",
+        "CrossplayMismatch_LocalPartyCrossplayDisabledAndOnDifferentPlatform_Description": "You cannot invite this player to the party as you currently have players with crossplay disabled in your party. They are on a different platform.",
+        "CrossplayMismatch_LocalPlayerCrossplayDisabledAndOnDifferentPlatform_Description": "You cannot invite this player to the party or join their party as you have crossplay disabled and are on a different platform. Please update crossplay settings to participate.",
+        "CrossplayMismatch_ObservedPartyCrossplayAndLocalPlayerCrossplayDisabled_Description": "You cannot join this player's party as you have crossplay disabled. They currently have crossplatform players in their party. Please update crossplay settings to participate.",
+        "CrossplayMismatch_ObservedPartyCrossplayDisabledAndOnDifferentPlatform_Description": "You cannot join this player's party as players in their party have crossplay disabled. They are on a different platform.",
+        "CrossplayMismatch_ObservedPlayerCrossplayDisabledAndLocalPartyCrossplay_Description": "You cannot invite this player to the party as they have crossplay disabled. You currently have crossplatform players in your party.",
+        "CrossplayMismatch_ObservedPlayerCrossplayDisabledAndOnDifferentPlatform_Description": "You cannot invite this player to the party or join their party as they have crossplay disabled and are on a different platform.",
+        "NonRealPlayer_Description": "This agent does not have a Riot account",
+        "PlayerRestriction_TextMute_Title": "Restricted: Text Comms",
+        "PlayerRestriction_VoiceMute_Title": "Restricted: Voice Comms",
+        "PlayerRestriction_Description": "Expires in {TimeSpanUntilExpiry}",
+        "PlayerRestriction_Competitive_Title": "Restricted: Competitive Queue",
+        "MultiplayerRestriction_Heading": "Multiplayer Restrictions",
+        "MultiplayerRestriction_LocalPlayerRestricted_Description": "You cannot invite this player to a party or join their party because you currently have multiplayer restrictions on",
+        "MultiplayerRestriction_ObservedPlayerRestricted_Description": "You cannot invite this player to a party or join their party because they currently have multiplayer restrictions on",
+        "PlatformMismatch_Title": "Platform Mismatch",
+        "PlatformMismatch_Console_Description": "You cannot play with a player who is on Console",
+        "PlatformMismatch_Desktop_Description": "You cannot play with a player who is on PC",
+        "PlatformMismatch_Generic_Description": "You cannot play with a player who is on {Platform}"
+      }
+    },
+    "StringTableId": 0
+  }
+]
