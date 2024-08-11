@@ -19,6 +19,28 @@ This repository contains code snippets and resources sourced from Riot Games for
 
 <br/>
 
+## FModel Details
+
+**Game**: VALORANT (ShooterGame)
+
+**UE Version**: GAME_Valorant
+
+**AES Key**: 0x4BE71AF2459CF83899EC9DC2CB60E22AC4B3047E0211034BBABE9D174C069DD6
+
+**Mapping**: None
+
+**Versioning**:
+
+`Custom Versions:` None
+
+`Options:` None
+
+`MapStructTypes:` None.
+
+**Additional Info**: Everything works fine including animations, static & skeletal meshes, their texture mapping, morph targets, and sockets. Valorant uses Wwise as their sound engine but that's not a problem, they work fine.
+
+---
+
 ## Table of Contents
 
 - [VALORANT Archive](./FModel%20Backups/README.md): Stores the archive for FModel Backups.
