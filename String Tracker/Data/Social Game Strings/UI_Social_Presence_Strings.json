@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_Presence_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_Presence_Strings",
+      "KeysToMetaData": {
+        "Status_Available": "Available",
+        "Status_VersionMismatch": "Version Mismatch!",
+        "Status_InTournament": "In Tournament",
+        "Status_Blocked": "Blocked",
+        "Status_MatchScore": "{QueueName}  {AllyScore} - {EnemyScore}",
+        "Status_AgentSelect": "Agent Select ({QueueName})",
+        "Status_InQueue": "In Queue ({QueueName})",
+        "Status_InParty": "In Party ({QueueName})",
+        "QueueName_Premier": "Premier",
+        "QueueName_Custom": "Custom",
+        "Status_Generic_Online": "Online",
+        "Status_Generic_Away": "Away",
+        "Status_Generic_Offline": "Offline",
+        "Status_Generic_Error": "Error",
+        "Status_Generic_Busy": "In-Game",
+        "Status_Unblocked": "Unblocked",
+        "QueueName_Matchmade": "Matchmade"
+      }
+    },
+    "StringTableId": 0
+  }
+]

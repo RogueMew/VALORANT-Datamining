@@ -8,15 +8,15 @@
 
 ### Console Game Strings:
 
-- [Social Input](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Input_Strings.json)
+- [Social Input](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Social%20Game%20Strings/UI_Social_Input_Strings.json)
 
-- [Social Modal](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Modal_Strings.json)
+- [Social Modal](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Social%20Game%20Strings/UI_Social_Modal_Strings.json)
 
-- [Social Party](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_Party_Strings.json)
+- [Social Party](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Social%20Game%20Strings/UI_Social_Party_Strings.json)
 
-- [Social Player Context Menu](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_PlayerContextMenu_Strings.json)
+- [Social Player Context Menu](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Social%20Game%20Strings/UI_Social_PlayerContextMenu_Strings.json)
 
-- [Social Player Info Box](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Console%20Game%20Strings/UI_Social_PlayerInfoBox_Strings.json)
+- [Social Player Info Box](https://github.com/RogueMew/VALORANT-Datamining/commits/main/String%20Tracker/Data/Social%20Game%20Strings/UI_Social_PlayerInfoBox_Strings.json)
 
 ### Agent Strings:
 
@@ -43,4 +43,4 @@
 - [Omen Strings](https://github.com/RogueMew/VALORANT-Datamining/commits/main/Data/Agent%20Strings/Wraith_Strings.json)
 - [Jett Strings](https://github.com/RogueMew/VALORANT-Datamining/commits/main/Data/Agent%20Strings/Wushu_Strings.json)
 
----
+- [Vyse Strings](https://github.com/RogueMew/VALORANT-Datamining/commits/main/Data/Agent%20Strings/Nox_Strings.json)

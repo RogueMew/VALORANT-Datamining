@@ -1,6 +1,6 @@
 # Rogues VALORANT Datamining and Archive Repo
 
-### ![Valorant Patch Currently Backed Up: 8.09](https://badgen.net/static/VALORANT%20Patch%20Currently%20Backed%20Up/9.03/?color=red)
+### ![Valorant Patch Currently Backed Up: 8.09](https://badgen.net/static/VALORANT%20Patch%20Currently%20Backed%20Up/9.04/?color=red)
 
 ## Welcome
 
@@ -48,7 +48,5 @@ This repository contains code snippets and resources sourced from Riot Games for
 - [String Tracker](./String%20Tracker/README.md): Tracks the changes of certain files.
 
 - [Image Archive](./Image%20Archive/README.md): Contains images that have been found in the game files
-
-- [Studying Items](./Studying/README.md): Current things I'm trying to figure out on how they work.
 
 - [Wiki for Data Mining](./Wiki/README.md): Wiki on how to Datamine VALORANT.

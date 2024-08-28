@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_Player_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_Player_Strings",
+      "KeysToMetaData": {
+        "PlayerCategory_Online": "ONLINE",
+        "PlayerCategory_Invalid": "INVALID",
+        "PlayerCategory_Offline": "OFFLINE",
+        "PlayerCategory_Online_OtherGame": "OTHER GAME",
+        "PlayerCategory_Online_Val": "IN VAL",
+        "PlayerCategory_Invited": "PENDING INVITES",
+        "PlayerCategory_Online_PartyCompatible": "AVAILABLE TO PLAY",
+        "PlayerCategory_Online_PartyIncompatible": "CANNOT INVITE",
+        "Format_DisplayName": "RIOT ID#TAG",
+        "PlayerCategory_Online_InYourParty": "IN YOUR PARTY",
+        "PlayerCategory_Blocked": "BLOCKED",
+        "Format_DisplayName_Example": "<Cream50>For example, your Riot ID is</> {DisplayName}",
+        "Status_FriendsListEmpty": "YOUR FRIENDS LIST IS EMPTY",
+        "PlayerStatus_LastPlayDuration": "Played with {Player} {Duration} ago",
+        "PlayerCategory_Online_VAL_Console": "IN VAL CONSOLE",
+        "SocialTriggerStatus_OnlineFriendsCount": "{NumOnlineFriends} {NumOnlineFriends}|plural(one=FRIEND,other=FRIENDS) ONLINE",
+        "Format_RiotId": "{Name}#{Tag}"
+      }
+    },
+    "StringTableId": 0
+  }
+]

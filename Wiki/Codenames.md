@@ -19,6 +19,7 @@ Bolded Lines are current Unknowns and no theories on what they can be. I will no
 |    Joules    | **CANCELLED** |
 |   Killjoy    |    Killjoy    |
 |     Mage     |    Harbor     |
+|     Nox      |     Vyse      |
 |   Pandemic   |     Viper     |
 |   Phoenix    |    Phoenix    |
 |     Rift     |     Astra     |

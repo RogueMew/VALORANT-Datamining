@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "UI_Social_Block_Strings",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "UI_Social_Block_Strings",
+      "KeysToMetaData": {
+        "Action_Block": "BLOCK",
+        "BlockConfirmationScreen_Description": "<Cream50>Are you sure you want to block</> Player {PlayerNameAndTag}<Cream50>?</>\r\n<Cream50>You won't be able to receive messages, invites or friend requests from them.</>\r\n<Cream50>You won't be able to hear them in voice chat.</>\r\n\r\n<Cream50>They won't be notified that you blocked them.</>",
+        "BlockConfirmationScreen_Heading": "DO YOU WANT TO BLOCK THIS PLAYER?",
+        "BlockUnblockConfirmationScreen_TextAboveHeading_Attention": "ATTENTION",
+        "Action_Cancel": "CANCEL",
+        "UnblockConfirmationScreen_Description": "<Cream50>Are you sure you want to unblock</> Player {PlayerNameAndTag}<Cream50>?</>\r\n<Cream50>You will be able to receive messages, invites and friend requests from them.</>\r\n<Cream50>You will be able to hear them in voice chat.</>\r\n\r\n<Cream50>They won't be notified that you unblocked them.</>",
+        "UnblockConfirmationScreen_Heading": "DO YOU WANT TO UNBLOCK THIS PLAYER?",
+        "Action_Unblock": "UNBLOCK",
+        "BlockedPlayerListSideScreen_Heading": "BLOCKED PLAYERS",
+        "BlockedPlayerListSideScreen_Description": "Players who are blocked cannot send you friend requests or party invites. You will also not be able to hear them in voice channels.",
+        "BlockedPlayerListSideScreen_Message_NoBlockedPlayers": "You have not blocked any players",
+        "Action_OpenBlockedPlayerList": "BLOCKED PLAYERS",
+        "BlockModal_Description": "Are you sure you want to block <Bold>{PlayerRiotID}</>? \r\nYou won't be able to receive messages, invites or friend requests from them. You won't be able to hear them in voice chat.\r\n\r\nThey won't be notified that you blocked them.",
+        "BlockModal_Heading": "BLOCK PLAYER",
+        "BlockingFriendRequest_ButtonText": "Blocking",
+        "Action_BlockPlayer": "Block Player",
+        "UnblockModal_Heading": "UNBLOCK PLAYER",
+        "UnblockModal_Description": "Are you sure you want to unblock <Bold>{PlayerNameAndTag}</>?\r\nYou will be able to receive messages, invites and friend requests from them.\r\nYou will be able to hear them in voice chat.\r\n\r\nThey won't be notified that you unblocked them."
+      }
+    },
+    "StringTableId": 0
+  }
+]

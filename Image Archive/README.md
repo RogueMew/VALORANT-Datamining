@@ -7,3 +7,7 @@ Explore a curated collection of artwork from game files. This archive showcases 
 ### [Character Art](./Character%20Renders/)
 
 ### [Game Screens](./Game%20Screens/README.md)
+
+### [Map Info](./Map%20Images/README.md)
+
+### [Rank Images](./Rank%20Images/README.md)

@@ -12,6 +12,8 @@
 
 ### [EP9:A1 PATCH 2](./EP9A1_902_VCT_Homescreen.mp4)
 
+### [EP9:A2](./EP9A2_904_Homescreen.mp4)
+
 ## New Player Expierience
 
 ### [Cutscene](./NPE_Intro.mp4)
