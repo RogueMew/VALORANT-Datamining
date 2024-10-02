@@ -17,5 +17,6 @@ Click to download the Backup
 | [Download VALORANT_9_03.fbkp](https://github.com/RogueMew/VALORANT-Datamining/raw/main/FModel%20Backups/Data/VALORANT_9_03.fbkp)           |        8/13/24         |        9.03        |
 | [Download VALORANT_9_04.fbkp](https://github.com/RogueMew/VALORANT-Datamining/raw/main/FModel%20Backups/Data/VALORANT_9_04.fbkp)           |        8/28/24         |        9.04        |
 | [Download VALORANT_9_04.fbkp](https://github.com/RogueMew/VALORANT-Datamining/raw/main/FModel%20Backups/Data/VALORANT_9_05.fbkp)           |        9/10/24         |        9.05        |
+| [Download VALORANT_9_04.fbkp](https://github.com/RogueMew/VALORANT-Datamining/raw/main/FModel%20Backups/Data/VALORANT_9_06.fbkp)           |        9/24/24         |        9.06        |
 
 Access the backups by clicking on the respective download links above. These backups contain data from various patches, allowing you to explore the game's content and changes over time.
