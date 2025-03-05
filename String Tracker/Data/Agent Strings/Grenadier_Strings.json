@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Grenadier_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Grenadier_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "KAY/O",
         "Prototype_DisplayName": "KAY/O Prototype",
         "Description": "KAY/O is a machine of war built for a single purpose: neutralizing radiants. His power to Suppress enemy abilities dismantles his opponents' capacity to fight back, securing him and his allies the ultimate edge.",
@@ -53,8 +54,8 @@
         "PlayerTitle_Grenadier2_Title_Description_AllCaps": "BUILT DIFFERENT TITLE",
         "Core_DisplayName": "KAY/O Core",
         "ContractName_AllCaps": "KAY/O GEAR"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

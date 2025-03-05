@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Killjoy_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Killjoy_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "GrenadeAbility_DisplayName": "Nanoswarm",
         "GrenadeAbility_Description": "EQUIP a Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ALT FIRE to lob. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobots.  ",
         "Ability1_DisplayName": "ALARMBOT",
@@ -60,8 +61,8 @@
         "GunBuddy_KilljoyBuddy_DisplayName_AllCaps": "BOT BUDDY",
         "DisplayName_AllCaps": "KILLJOY",
         "ContractName_AllCaps": "KILLJOY GEAR"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

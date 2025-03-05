@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Mage_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Sandbox_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Harbor",
         "DisplayName_AllCaps": "HARBOR",
         "Mage_ContractName": "Harbor Gear",
@@ -41,8 +42,8 @@
         "GrenadeAbility_DisplayName": "Cascade",
         "Ultimate_Description": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed.",
         "Ultimate_DisplayName": "Reckoning"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

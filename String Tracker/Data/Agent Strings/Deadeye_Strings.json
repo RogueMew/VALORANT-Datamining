@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Deadeye_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Deadeye_StringTable",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Chamber",
         "Description": "Well-dressed and well-armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
         "Ability2_Description": "EQUIP a teleport anchor. FIRE to place it on the ground. While on the ground and in range of the anchor, REACTIVATE to quickly teleport to the anchor. The anchor can be picked up to be REDEPLOYED.",
@@ -47,8 +48,8 @@
         "PlayerTitle_Charmer_Description_AllCaps": "CHARMER TITLE",
         "PlayerTitle_HighClass_Description": "High Class Title",
         "PlayerTitle_HighClass_Description_AllCaps": "HIGH CLASS TITLE"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

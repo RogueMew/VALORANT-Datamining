@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Breach_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Breach_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Breach",
         "Description": "The bionic Swede Breach fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
         "Ability1_DisplayName": "Flashpoint",
@@ -15,7 +16,7 @@
         "GrenadeAbility_DisplayName": "Aftershock",
         "GrenadeAbility_Description": "EQUIP a fusion charge. FIRE the charge to set a slow-acting burst through the wall. The burst does heavy damage to anyone caught in its area.",
         "Ultimate_DisplayName": "Rolling Thunder",
-        "Ultimate_Description": "EQUIP a Seismic Charge. FIRE to send a cascading quake through all terrain in a large cone. The quake Concusses and knocks up anyone caught in it.",
+        "Ultimate_Description": "EQUIP a Seismic Charge. FIRE to send a cascading quake through all terrain in a large zone. The quake Concusses and knocks up anyone caught in it.",
         "Prototype_DisplayName": "BreachPrototype",
         "Charge": "Charge",
         "Gunbuddy_Displayname": "Hammer Time Buddy",
@@ -35,8 +36,8 @@
         "Gunbuddy_Displayname_AllCaps": "HAMMER TIME BUDDY",
         "DisplayName_AllCaps": "BREACH",
         "ContractName_AllCaps": "BREACH GEAR"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

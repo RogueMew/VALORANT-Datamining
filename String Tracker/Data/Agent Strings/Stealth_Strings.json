@@ -3,12 +3,13 @@
     "Type": "StringTable",
     "Name": "Stealth_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Stealth_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "Ability1_Description": "EQUIP to rip an unstable dimensional fragment from reality. FIRE to throw the fragment, activating a flash that winds up once it collides with a hard surface.",
         "Ability1_DisplayName": "BLINDSIDE",
-        "Ability2_Description": "EQUIP a rift tether FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport.",
+        "Ability2_Description": "EQUIP a rift tether FIRE to send the tether forward. ALT FIRE to place a stationary tether. ACTIVATE to teleport to the tether's location. USE to trigger a fake teleport. GATECRASH resets a charge every two kills.",
         "Ability2_DisplayName": "GATECRASH",
         "GrenadeAbility_Description": "EQUIP an echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo. USE to transform an inactive echo into a mirror image and send it forward.  Mirror images explode in a Blinding flash when destroyed by enemies.",
         "GrenadeAbility_DisplayName": "FAKEOUT",
@@ -46,8 +47,8 @@
         "FakeTP_1PConfirm": "GATECRASH FAKED",
         "Decoy_Usable_Prompt": "SPAWN FAKEOUT",
         "DisplayName_AllCaps": "YORU"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

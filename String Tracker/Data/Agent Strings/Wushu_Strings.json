@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Wushu_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Wushu_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "Ability_4_Description": "INSTANTLY throw a projectile that expands into a brief vision-blocking cloud on impact with a surface. HOLD the ability key to curve the smoke in the direction of your crosshair.",
         "Ability_4_DisplayName": "Cloudburst",
         "Ability_4_DisplayName_AllCaps": "CLOUDBURST",
@@ -33,8 +34,8 @@
         "Prototype2DisplayName": "WushuPrototype2",
         "Prototype2DisplayName_AllCaps": "WUSHUPROTOTYPE2",
         "Ability_E_DashInput": "PRESS AGAIN TO DASH"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

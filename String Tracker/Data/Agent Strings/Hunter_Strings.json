@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Hunter_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Hunter_StringTable",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Sova",
         "Description": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. ",
         "Ability1_DisplayName": "Shock Bolt",
@@ -34,8 +35,8 @@
         "Ultimate_DisplayName": "Hunter's Fury",
         "Prototype_DisplayName_AllCaps": "HUNTER_PROTOTYPE",
         "DisplayName_AllCaps": "SOVA"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

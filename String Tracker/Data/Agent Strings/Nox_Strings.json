@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Nox_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Nox_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Vyse",
         "AlertMessage_EnemyTriggered": "SHEAR TRIGGERED",
         "AlertMessage_EnemyTriggered_Barbed": "BARBED WIRE DEFENSES ACTIVATED",
@@ -24,7 +25,7 @@
         "DisplayName_AllCaps": "VYSE",
         "Ability1_Description": "EQUIP filaments of liquid metal. FIRE to place a hidden wall trap. When an enemy crosses, an indestructible wall bursts from the ground behind them. The wall lasts for a brief time before dissipating.",
         "Ability1_DisplayName": "Shear",
-        "Ability2_Description": "EQUIP an Arc Rose. Target a surface and FIRE to place a stealthed Arc Rose, or ALT Fire to place the Arc Rose through it. REUSE to blind all players looking at it. This ability can be picked up to be REDEPLOYED.",
+        "Ability2_Description": "EQUIP an Arc Rose. Target a surface and FIRE to place a stealthed Arc Rose, or ALT FIRE to place the Arc Rose through it. REUSE to blind all players looking at it. This ability can be picked up to be REDEPLOYED.",
         "Ability2_DisplayName": "Arc Rose",
         "Ability3_Description": "EQUIP a nest of liquid metal. FIRE to launch. Upon landing, the nest becomes invisible. When ACTIVATED, it sprawls out into a large razorvine nest which slows and damages all players who move through it.",
         "Ability3_DisplayName": "Razorvine",
@@ -59,8 +60,8 @@
         "Basepistol_A26Classic_DisplayName_AllCaps": "STEEL RESOLVE CLASSIC",
         "Flash_InvalidPlacement": "CANNOT PLACE TRAP THERE",
         "Flash_InvalidPlacementThroughWalls": "CANNOT PLACE THROUGH WALLS THERE"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

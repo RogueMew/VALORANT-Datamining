@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Guide_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Guide_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "ContractName": "Skye Gear",
         "DisplayName": "Skye",
         "Ability1_DisplayName": "Trailblazer",
@@ -37,8 +38,8 @@
         "DisplayName_AllCaps": "SKYE",
         "ContractName_AllCaps": "SKYE GEAR",
         "Ability2_ActivateText": "ACTIVATE TO FLASH"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

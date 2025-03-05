@@ -8,6 +8,7 @@ Bolded Lines are current Unknowns and no theories on what they can be. I will no
 | BountyHunter |     Fade      |
 |    Breach    |    Breach     |
 |    Cable     |   Deadlock    |
+|    Cashew    |     Tejo      |
 |     Clay     |     Raze      |
 |   Crusader   | **CANCELLED** |
 |   Deadeye    |    Chamber    |
@@ -29,6 +30,7 @@ Bolded Lines are current Unknowns and no theories on what they can be. I will no
 |    Smonk     |     Clove     |
 |   Sprinter   |     Neon      |
 |   Stealth    |     Yoru      |
+|    Terra     |    Waylay     |
 |    Thorne    |     Sage      |
 |   Vampire    |     Reyna     |
 |    Wraith    |     Omen      |

@@ -3,15 +3,16 @@
     "Type": "StringTable",
     "Name": "Thorne_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Thorne_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Sage",
         "Prototype_DisplayName": "ThornePrototype",
         "ProductionDisplayName": "ThorneProduction",
         "Description": "The bastion of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.",
         "Ability1_DisplayName": "Slow Orb",
-        "Ability1_Description": "EQUIP a slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that Slows players caught inside of it.",
+        "Ability1_Description": "EQUIP a slowing orb. FIRE to throw a slowing orb forward that detonates upon landing, creating a lingering field that Slows and reduces the dash speed of players caught inside of it.",
         "Ability2_DisplayName": "Healing Orb",
         "Ability2_Description": "EQUIP a healing orb. FIRE with your crosshairs over a damaged ally to activate a Heal-Over-Time on them. ALT FIRE while Sage is damaged to activate a self Heal-Over-Time.",
         "GrenadeAbility_DisplayName": "Barrier Orb",
@@ -26,8 +27,8 @@
         "DisplayName_AllCaps": "SAGE",
         "ProductionDisplayName_AllCaps": "THORNEPRODUCTION",
         "Prototype_DisplayName_AllCaps": "THORNEPROTOTYPE"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

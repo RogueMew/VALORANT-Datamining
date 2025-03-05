@@ -3,14 +3,15 @@
     "Type": "StringTable",
     "Name": "Pandemic_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Pandemic_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Viper",
         "Prototype_DisplayName": "PandemicPrototype",
         "Description": "The American Chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and choke the enemy's vision. If the toxins don't kill her prey, her mindgames surely will.",
         "Ability1_DisplayName": "Poison Cloud",
-        "Ability1_Description": "EQUIP a gas emitter. FIRE to throw the emitter that perpetually remains throughout the round. ALT FIRE to lob. RE-USE the ability to create a toxic gas cloud at the cost of fuel. This ability can be RE-USED more than once and can be picked up to be REDEPLOYED.",
+        "Ability1_Description": "EQUIP a gas emitter. FIRE to throw the emitter that perpetually remains throughout the round. ALT FIRE to lob. RE-USE the ability to create a toxic gas cloud at the cost of fuel. This ability can be picked up to be REDEPLOYED before the round starts and can be RE-USED more than once throughout the round.",
         "Ability2_DisplayName": "Toxic Screen",
         "Ability2_Description": "EQUIP a gas emitter launcher that penetrates terrain. FIRE to deploy a long line of gas emitters. RE-USE the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be RE-USED more than once.",
         "GrenadeAbility_DisplayName": "Snake Bite",
@@ -39,8 +40,8 @@
         "Ability2_NoValvesWarning": "NO VALVES PLACED",
         "DisplayName_AllCaps": "VIPER",
         "DisplayName_Prototype_AllCaps": "PANDEMICPROTOTYPE"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

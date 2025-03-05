@@ -3,15 +3,16 @@
     "Type": "StringTable",
     "Name": "Sprinter_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Sprinter_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Neon",
         "Prototype_DisplayName": "Neon Prototype",
         "Description": "Filipino Agent Neon surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard then strikes them down quicker than lightning.",
         "Ability1_DisplayName": "Relay Bolt",
         "Ability1_Description": "INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a Concussive blast.",
-        "Ability2_Description": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.",
+        "Ability2_Description": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills.",
         "GrenadeAbility_DisplayName": "Fast Lane",
         "GrenadeAbility_Description": "FIRE two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision.",
         "Ultimate_DisplayName": "Overdrive",
@@ -48,8 +49,8 @@
         "Ultimate_DisplayName_AllCaps": "OVERDRIVE",
         "Frenzy_Sprinter_DisplayName": "Live Wire Frenzy",
         "Frenzy_Sprinter_DisplayName_AllCaps": "LIVE WIRE FRENZY"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

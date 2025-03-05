@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Wraith_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Wraith_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Omen",
         "Prototype_DisplayName": "WraithPrototype",
         "Prototype_DisplayName_Teleport": "WraithTeleport",
@@ -31,8 +32,8 @@
         "Ability2_DisplayName": "Dark Cover",
         "DisplayName_AllCaps": "OMEN",
         "Prototype_DisplayName_AllCaps": "WRAITHPROTOTYPE"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

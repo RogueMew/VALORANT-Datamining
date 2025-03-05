@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "Rift_StringTable",
+    "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "StringTable": {
+      "TableNamespace": "Rift_StringTable",
+      "KeysToEntries": {
+        "PlaceRiftFailure_TooClose": "CANNOT PLACE TEAR CLOSE TO EXISTING TEAR",
+        "Ability_4_Description": "Place Stars in Astral Form (Ultimate Key). \r\n\r\nACTIVATE a Star to transform it into a Nebula (smoke).\r\n\r\nUSE a Star to Dissipate it, returning the Star to be placed in a new location after a delay.\r\n\r\nDissipate briefly forms a fake Nebula at the Star's location before returning.",
+        "Ability_4_DisplayName": "Nebula  / Dissipate",
+        "Ability_C_DisplayName": "Gravity Well",
+        "Ability_Q_DisplayName": "Nova Pulse",
+        "Ability_X_DisplayName": "Astral Form / Cosmic Divide",
+        "Ability_Passive_DisplayName": "Astral Form",
+        "Ability_C_Description": "Place Stars in Astral Form (Ultimate Key).\r\n\r\nACTIVATE a Star to form a Gravity Well. Players in the area are pulled toward the center before it explodes, making all players still trapped inside Vulnerable.",
+        "Ability_X_Description": "ACTIVATE to enter Astral Form where you can place Stars with FIRE. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.\r\n\r\nWhen Cosmic Divide is charged, use ALT FIRE in Astral Form to begin aiming it, then FIRE to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and sound.",
+        "Ability_Q_Description": "Place Stars in Astral Form (Ultimate Key).\r\n\r\nACTIVATE a Star to detonate a Nova Pulse. The Nova Pulse charges briefly then strikes, Concussing all players in its area.",
+        "Ability_Passive_Description": "ACTIVATE Ultimate to enter Astral Form and PRIMARY FIRE to place Stars. Target Stars with your Nova Pulse, Nebula, or Gravity Well to use those abilities.",
+        "DisplayName": "Astra",
+        "ContractName_Rift": "Astra Gear",
+        "Luger_Rift_DisplayName": "Eclipse Ghost",
+        "Spray_Rift2_DisplayName": "Astral Plane Spray",
+        "Spray_Rift1_DisplayName": "Galaxy Brain Spray",
+        "PlayerCard_Rift2_DisplayName": "Cosmic Origin Card",
+        "PlayerCard_Rift1_DisplayName": "VALORANT Astra Card",
+        "Spray_Rift3_DisplayName": "Astra Spray",
+        "GunBuddy_Rift_DisplayName": "Stardust Buddy",
+        "PlayerTitle_Rift1_DisplayName": "Stellar",
+        "PlayerTitle_Rift2_DisplayName": "Infinite",
+        "Description": "Ghanaian Agent Astra harnesses the energies of the cosmos to reshape battlefields to her whim. With full command of her astral form and a talent for deep strategic foresight, she's always eons ahead of her enemy's next move.",
+        "PlayerTitle_Rift1_Title_Description": "Stellar Title",
+        "PlayerTitle_Rift2_Title_Description": "Infinite Title",
+        "DisplayNameBreeze": "BREEZE",
+        "PlayerCard_Rift1_DisplayName_AllCaps": "VALORANT ASTRA CARD",
+        "PlayerCard_Rift2_DisplayName_AllCaps": "COSMIC ORIGIN CARD",
+        "Spray_Rift2_DisplayName_AllCaps": "ASTRAL PLANE SPRAY",
+        "Spray_Rift3_DisplayName_AllCaps": "ASTRA SPRAY",
+        "Spray_Rift1_DisplayName_AllCaps": "GALAXY BRAIN SPRAY",
+        "Luger_Rift_DisplayName_AllCaps": "ECLIPSE GHOST",
+        "GunBuddy_Rift_DisplayName_AllCaps": "STARDUST BUDDY",
+        "DisplayName_AllCaps": "ASTRA",
+        "PlayerTitle_Rift2_DisplayName_AllCaps": "INFINITE",
+        "PlayerTitle_Rift1_DisplayName_AllCaps": "STELLAR",
+        "PlayerTitle_Rift2_Title_Description_AllCaps": "INFINITE TITLE",
+        "PlayerTitle_Rift1_Title_Description_AllCaps": "STELLAR TITLE",
+        "ContractName_Rift_AllCaps": "ASTRA GEAR"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

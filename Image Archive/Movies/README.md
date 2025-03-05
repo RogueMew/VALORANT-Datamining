@@ -14,6 +14,10 @@
 
 ### [EP9:A2](./EP9A2_904_Homescreen.mp4)
 
+### [V25:A1 Patch 2](./10_02_Homescreen.mp4)
+
+### [V25:A1 Patch 4](./10_04_Homescreen.mp4)
+
 ## New Player Expierience
 
 ### [Cutscene](./NPE_Intro.mp4)

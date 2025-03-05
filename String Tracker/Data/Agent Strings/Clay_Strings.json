@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Clay_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Clay_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Raze",
         "Prototype_DisplayName": "ClayPrototype",
         "Description": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of \"boom.\"",
@@ -37,8 +38,8 @@
         "Prototype_DisplayName_AllCaps": "CLAYPROTOTYPE",
         "DisplayName_AllCaps": "RAZE",
         "ContractName_AllCaps": "RAZE GEAR"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

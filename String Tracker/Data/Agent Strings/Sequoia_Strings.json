@@ -3,13 +3,14 @@
     "Type": "StringTable",
     "Name": "Sequoia_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Sequoia_StringTable",
-      "KeysToMetaData": {
-        "Ability_4_Description": "EQUIP to assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets.",
+      "KeysToEntries": {
+        "Ability_4_Description": "EQUIP to assemble prismatic energy. FIRE to push an indestructible wall of energy forward that blocks bullets. ALT FIRE to push out a slower version of the wall.",
         "Ability_4_DisplayName": "Contingency",
         "Ability_4_DisplayName_AllCaps": "CONTINGENCY",
-        "Ability_E_Description": "START a focus timer. Once completed, enter a flow state during which downed enemies you kill or damage generate an energy orb. Shooting this orb grants you a shield which absorbs one instance of damage from any source.",
+        "Ability_E_Description": "INSTANTLY start channeling your focus. Once focused: gain a shield which absorbs one instance of damage from any source, and enter a flow state during which downed enemies you kill or damage spawn an energy orb. Shooting this orb refreshes your flow state and your existing shield, or grants another.",
         "Ability_E_DisplayName": "Double Tap",
         "Ability_E_DisplayName_AllCaps": "DOUBLE TAP",
         "Ability_E_FocusingDisplay_HUD": "Focusing",
@@ -24,7 +25,7 @@
         "Ability_X_Description": "EQUIP an interdimensional arena. FIRE to hurl a column of energy through the battlefield, pulling you and the first enemy hit into the arena. You and your opponent duel to the death.",
         "Ability_X_DisplayName": "Kill Contract",
         "Ability_X_DisplayName_AllCaps": "KILL CONTRACT",
-        "Ability_Q_Description": "EQUIP a molecular bolt. FIRE to throw it forward, briefly applying Vulnerable to all players it touches. The bolt can pass through solid objects, including walls.",
+        "Ability_Q_Description": "EQUIP a molecular bolt. FIRE to throw it forward, briefly applying Vulnerable & Suppress to all players it touches. The bolt can pass through solid objects, including walls.",
         "PlayerTitle_SequoiaTitle1_Description": "Tuned In Title",
         "PlayerTitle_SequoiaTitle1_Description_AllCaps": "TUNED IN TITLE",
         "PlayerTitle_SequoiaTitle1_DisplayName": "Tuned In",
@@ -47,8 +48,8 @@
         "Revolver_A24Revolver_DisplayName": "Mythmaker Sheriff",
         "GunBuddy_SequoiaEarbuds_DisplayName": "Peripherals Buddy",
         "GunBuddy_SequoiaEarbuds_DisplayName_AllCaps": "PERIPHERALS BUDDY"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

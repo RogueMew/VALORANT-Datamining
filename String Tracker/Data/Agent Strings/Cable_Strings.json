@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Cable_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Cable_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Deadlock",
         "DisplayName_AllCaps": "DEADLOCK",
         "Ultimate_DisplayName": "Annihilation",
@@ -15,7 +16,7 @@
         "Ability2_Description": "EQUIP a Barrier Mesh disc. FIRE to throw forward. Upon landing, the disc generates barriers from the origin point that block character movement.",
         "Ability1_DisplayName": "Sonic Sensor",
         "Ability2_DisplayName": "Barrier Mesh",
-        "Ultimate_Description": "EQUIP a Nanowire Accelerator. FIRE to unleash a pulse of nanowires that captures the first enemy contacted. The cocooned enemy is pulled along a nanowire path and will die if they reach the end, unless they are freed. The nanowire cocoon is destructible.",
+        "Ultimate_Description": "EQUIP a Nanowire Accelerator. FIRE to unleash a pulse of nanowires that captures the first enemy contacted. The cocooned enemy is pulled along a nanowire path and will die unless they are freed. The nanowire cocoon is destructible.",
         "GrenadeAbility_Description": "EQUIP a GravNet grenade. FIRE to throw. ALT FIRE to lob. The GravNet detonates upon landing, forcing any characters caught within to crouch and move slowly.",
         "GrenadeAbility_DisplayName": "GravNet",
         "Description": "Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives her unyielding ferocity.",
@@ -54,8 +55,8 @@
         "ContractName_AllCaps": "DEADLOCK GEAR",
         "Ultimate_CocoonDistanceBarSubText": "ALLY RESCUE NEEDED",
         "Ultimate_AlertMessage_Hooked": "CAPTURED TARGET"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]

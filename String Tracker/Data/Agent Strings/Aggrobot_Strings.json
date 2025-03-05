@@ -3,9 +3,10 @@
     "Type": "StringTable",
     "Name": "Aggrobot_Strings",
     "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "StringTable": {
       "TableNamespace": "Aggrobot_Strings",
-      "KeysToMetaData": {
+      "KeysToEntries": {
         "DisplayName": "Gekko",
         "Description": "Gekko the Angeleno leads a tight-knit crew of calamitous creatures. His buddies bound forward, scattering enemies out of the way, with Gekko chasing them down to regroup and go again.",
         "Ability1_DisplayName": "Wingman",
@@ -48,8 +49,8 @@
         "Ability2_RMBPrompt_Subtext": "PRESS {RMB} TO PLANT SPIKE",
         "ReclaimOrbs_ReclaimPrompt": "RECLAIM {ABILITYNAME}",
         "ReclaimOrbs_ActivelyReclaiming": "RECLAIMING {ABILITYNAME}"
-      }
-    },
-    "StringTableId": 0
+      },
+      "KeysToMetaData": {}
+    }
   }
 ]
