@@ -1,6 +1,6 @@
 # Rogues VALORANT Datamining and Archive Repo
 
-### ![Valorant Patch Currently Backed Up: 9.06](https://badgen.net/static/VALORANT%20Patch%20Currently%20Backed%20Up/9.06/?color=red)
+### ![Valorant Patch Currently Backed Up: 9.06](https://badgen.net/static/VALORANT%20Patch%20Currently%20Backed%20Up/10.04/?color=red)
 
 ## Welcome
 
